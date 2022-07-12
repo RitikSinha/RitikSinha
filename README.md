@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Konfav App
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Next js
 - 👯 I’m looking to collaborate on Konfav App
 - 🤔 I’m looking for help with webRTC
 - 💬 Ask me about JavaScript
