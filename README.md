@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Typescript and Three.js**
 
-- 👨‍💻 All of my projects are available at [https://me.konfav.com](https://me.konfav.com)
+- 👨‍💻 All of my projects are available at [https://blog.konfav.com](https://blog.konfav.com)
 
 - 📝 I regularly write articles on [https://me.konfav.com](https://me.konfav.com)
 
