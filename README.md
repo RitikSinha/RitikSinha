@@ -3,19 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/konfavian" target="blank"><img src="https://img.shields.io/twitter/follow/konfavian?logo=twitter&style=for-the-badge" alt="konfavian" /></a> </p>
 
-- 🔭 I’m currently working on [Konfav](https://www.konfav.com)
+- 🔭 I’m currently working on [Gennify](https://www.Gennify.com)
 
 - 🌱 I’m currently learning **Typescript and Three.js**
 
-- 👨‍💻 All of my projects are available at [https://me.konfav.com](https://me.konfav.com)
-
-- 📝 I regularly write articles on [https://blog.konfav.com](https://blog.konfav.com)
+- 📝 I regularly write articles on [hashnode](https://ritiksinha.hashnode.dev/)
 
 - 📽️ I regularly post videos on [https://youtube.com/ritiksinha](https://youtube.com/ritiksinha)
 
 - 💬 Ask me about **react and next.js**
 
-- 📫 How to reach me **ritik@konfav.com**
+- 📫 How to reach me **ritik@gennify.com**
 
 - ⚡ Fun fact **I can turn coffee into code.**
 
