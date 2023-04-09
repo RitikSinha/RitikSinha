@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [hashnode](https://ritiksinha.hashnode.dev/)
 
-- 📽️ I regularly post videos on [https://youtube.com/ritiksinha](https://youtube.com/ritiksinha)
+
 
 - 💬 Ask me about **react and next.js**
 
