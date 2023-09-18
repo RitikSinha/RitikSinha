@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritik</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/ritiksinhatwt" target="blank"><img src="https://img.shields.io/twitter/follow/konfavian?logo=twitter&style=for-the-badge" alt="konfavian" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ritiksinhatwt" target="blank"><img src="https://img.shields.io/twitter/follow/ritiksinhatwt?logo=twitter&style=for-the-badge" alt="ritiksinha" /></a> </p>
 
 - 🔭 I’m currently working on [Gennify](https://www.Gennify.com)
 
