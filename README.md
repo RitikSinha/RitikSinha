@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Typescript and Three.js**
 
-- 📝 I regularly write articles on [hashnode](https://ritiksinha.hashnode.dev/)
+- 📝 I regularly write articles on [Konfav Blog](https://konfav.com/blog)
 
 
 
 - 💬 Ask me about **react and next.js**
 
-- 📫 How to reach me **ritik@gennify.com**
+- 📫 How to reach me **ritik@konfav.com**
 
 - ⚡ Fun fact **I can turn coffee into code.**
 
