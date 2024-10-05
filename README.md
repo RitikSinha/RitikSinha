@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/ritiksinhatwt" target="blank"><img src="https://img.shields.io/twitter/follow/ritiksinhatwt?logo=twitter&style=for-the-badge" alt="ritiksinha" /></a> </p>
 
-- 🔭 I’m currently working on [Konfav](https://www.Konfav.com)
+- 🔭 I’m currently working on [bondub](https://www.bondub.com)
 
-- 🌱 I’m currently learning **Typescript and Three.js**
+- 🌱 I’m currently learning **AWS and Next.js**
 
 - 📝 I regularly write articles on [Konfav Blog](https://konfav.com/blog)
 
