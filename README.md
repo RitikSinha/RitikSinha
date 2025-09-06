@@ -7,19 +7,19 @@
 
 - 🌱 I’m currently learning **AWS and Next.js**
 
-- 📝 I regularly write articles on [Konfav Blog](https://konfav.com/blog)
+- 📝 I regularly write articles on [bondub Blog](https://bondub.com/blog)
 
 
 
 - 💬 Ask me about **react and next.js**
 
-- 📫 How to reach me **ritik@konfav.com**
+- 📫 How to reach me **ritik@bondub.com**
 
 - ⚡ Fun fact **I can turn coffee into code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/konfavian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="konfavian" height="30" width="40" /></a>
+<a href="https://twitter.com/bondubian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bondubian" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ritik-sinha-54783815b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik-sinha-54783815b" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ritiksinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ritiksinha" height="30" width="40" /></a>
 </p>
