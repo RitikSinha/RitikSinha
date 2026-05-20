@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [bondub](https://www.bondub.com)
 
-- 🌱 I’m currently learning **AWS and Next.js**
+- 🌱 I’m currently learning **Go Lang, Postgres and system design **
 
 - 📝 I regularly write articles on [bondub Blog](https://bondub.com/blog)
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bondubian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bondubian" height="30" width="40" /></a>
+<a href="https://twitter.com/ritiksinhatwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bondubian" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ritik-sinha-54783815b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik-sinha-54783815b" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ritiksinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ritiksinha" height="30" width="40" /></a>
 </p>
